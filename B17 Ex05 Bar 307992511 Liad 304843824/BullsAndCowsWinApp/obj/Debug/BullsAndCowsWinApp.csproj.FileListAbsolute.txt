@@ -1,0 +1,11 @@
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsWinApp\bin\Debug\BullsAndCowsWinApp.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsWinApp\bin\Debug\BullsAndCowsWinApp.exe
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsWinApp\bin\Debug\BullsAndCowsWinApp.pdb
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsWinApp\bin\Debug\BullsAndCowsGameLogic.dll
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsWinApp\bin\Debug\BullsAndCowsGameLogic.pdb
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsWinApp\bin\Debug\BullsAndCowsGameLogic.dll.config
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsWinApp\obj\Debug\BullsAndCowsWinApp.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsWinApp\obj\Debug\BullsAndCowsWinApp.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsWinApp\obj\Debug\BullsAndCowsWinApp.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsWinApp\obj\Debug\BullsAndCowsWinApp.exe
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsWinApp\obj\Debug\BullsAndCowsWinApp.pdb

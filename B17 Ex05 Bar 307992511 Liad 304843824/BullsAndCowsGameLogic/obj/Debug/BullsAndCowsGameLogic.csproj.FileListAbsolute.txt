@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsGameLogic\bin\Debug\BullsAndCowsGameLogic.dll.config
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsGameLogic\bin\Debug\BullsAndCowsGameLogic.dll
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsGameLogic\bin\Debug\BullsAndCowsGameLogic.pdb
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsGameLogic\obj\Debug\BullsAndCowsGameLogic.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsGameLogic\obj\Debug\BullsAndCowsGameLogic.dll
+C:\Users\user\documents\visual studio 2017\Projects\B17 Ex05 Bar 307992511 Liad 304843824\BullsAndCowsGameLogic\obj\Debug\BullsAndCowsGameLogic.pdb
